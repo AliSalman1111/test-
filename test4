@@ -1,0 +1,12 @@
+using git config
+1- to change the user name and email
+2- to specify the name of your local repository 
+git init:
+1-use to create new repo  in the same directory 
+git merge 
+1- use to combines change from two or more branch  into asingle branch .
+get remote 
+1-use to manage remote repo 
+2 the remte repo is agit repo that is located on a remote server.
+3-to use it you need to  know the name of the remote repo
+
